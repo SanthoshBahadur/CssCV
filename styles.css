@@ -129,7 +129,8 @@ hr {
 }
 
 .h3-desc{
-  font-family: serif;
+  font-family: 'Montserrat', sans-serif;
+/*   font-family: serif; */
   font-weight: lighter;
 }
 .btn {
